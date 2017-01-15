@@ -1,0 +1,8 @@
+title: Awesome-remote-job
+description: A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+google_analytics: UA-58599758-1
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
